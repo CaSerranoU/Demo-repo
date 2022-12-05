@@ -7,6 +7,6 @@ Some descriptions here.
 
 More text here
 
-##Local development
+## Local development
 
 1. Open index.html in your browser
